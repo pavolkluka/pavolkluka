@@ -37,11 +37,11 @@ for event ticket validation.
 
 ## Projects
 
-| Repository | Description | Stack |
-|------------|-------------|-------|
-| [soc-toolkit](https://github.com/pavolkluka/soc-toolkit) | Triage scripts and analysis tools for SOC analysts | Bash, Python |
-| [medium-articles-code](https://github.com/pavolkluka/medium-articles-code) | Sample-specific scripts from Medium articles | Bash, Python |
-| [hydranode-ticket-validator](https://github.com/pavolkluka/hydranode-ticket-validator) | PWA for QR ticket validation via Lightning Network | React, TypeScript, Tailwind |
+| Repository | Description | Stack | Status |
+|------------|-------------|-------|--------|
+| [soc-toolkit](https://github.com/pavolkluka/soc-toolkit) | Triage scripts and analysis tools for SOC analysts | Bash, Python | In development |
+| [medium-articles-code](https://github.com/pavolkluka/medium-articles-code) | Sample-specific scripts from Medium articles | Bash, Python | In development |
+| [hydranode-ticket-validator](https://github.com/pavolkluka/hydranode-ticket-validator) | PWA for QR ticket validation via Lightning Network | React, TypeScript, Tailwind | In development |
 
 ---
 
@@ -56,4 +56,4 @@ for event ticket validation.
 
 ## Support
 
-If my work helped you: ⚡ [Lightning tip via Hydranode](https://hydranode.org/btcpay)
+If my work helped you: ⚡ [Lightning tip via Hydranode](https://hydranode.org/btcpay/apps/5PWitVJeWxXBVoTp7xky5VoaViF/pos)
