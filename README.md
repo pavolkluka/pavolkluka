@@ -6,12 +6,11 @@ SOC Analyst | Malware & Network Traffic Analysis | Technical Writer
 
 ## About
 
-I analyze malware samples and malicious network traffic, then write about it on Medium.
-My focus is on building reproducible, scriptable workflows for file triage, PCAP analysis,
-and incident response — primarily on REMnux.
+SOC analyst focused on malware file triage and malicious network traffic analysis,
+building scriptable and reproducible workflows on REMnux. I publish detailed
+analysis walkthroughs on Medium and The Malware Files.
 
-On the side, I build web applications — currently a Lightning Network-connected PWA
-for event ticket validation.
+Side project: a Lightning Network-connected PWA for event ticket validation.
 
 ---
 
@@ -56,4 +55,4 @@ for event ticket validation.
 
 ## Support
 
-If my work helped you: ⚡ [Lightning tip via Hydranode](https://hydranode.org/btcpay/apps/5PWitVJeWxXBVoTp7xky5VoaViF/pos)
+If my work helped you: ⚡ [Lightning tip via Hydranode](https://hydranode.org/btcpay/apps/3eaaJ6N3NvEDSvkhWfLGR3Zxf1GN/pos)
