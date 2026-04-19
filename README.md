@@ -46,8 +46,8 @@ Side project: a Lightning Network-connected PWA for event ticket validation.
 
 ## Tools I work with
 
-**Analysis:** REMnux · TShark · Wireshark · Zui · FLARE-FLOSS · CAPA · Detect It Easy · Oletools · Didier Stevens Suite  
-**Threat Intel:** VirusTotal · Tria.ge · AlienVault OTX · Malwoverview  
+**Analysis:** REMnux · TShark · Wireshark · Zui · FLARE-FLOSS · CAPA · PortEx Analyzer · Detect It Easy · TrID · ExifTool · Oletools · Didier Stevens Suite · LnkParse3  
+**Threat Intel:** VirusTotal · Tria.ge · AlienVault OTX · Malware Bazaar · Malwoverview  
 **Reversing:** Ghidra · CyberChef · Binary Ninja  
 **Dev:** Python · Bash · React · TypeScript · Tailwind CSS
 
