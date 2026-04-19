@@ -57,4 +57,6 @@ Side project: a Lightning Network-connected PWA for event ticket validation.
 
 If you want to support me, you can do so in satoshi. Use the Lightning Network.
 
-[![Pay with Hydranode](images/hydranode_donation_button_black.png)](https://hydranode.org/btcpay/apps/3eaaJ6N3NvEDSvkhWfLGR3Zxf1GN/pos)
+<a href="https://hydranode.org/btcpay/apps/3eaaJ6N3NvEDSvkhWfLGR3Zxf1GN/pos" target="_blank" rel="noopener noreferrer">
+  <img src="images/hydranode_donation_button_black.png" alt="Pay with Hydranode">
+</a>
